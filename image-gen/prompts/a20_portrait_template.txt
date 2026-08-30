@@ -1,0 +1,19 @@
+STYLE ANCHOR: The attached images are existing paintings from this same series, already hanging on the wall. Match them exactly for background tone, lighting direction, palette, brushwork and level of finish. Their background is a near-pure black unlit void — no visible wall, floor, corner, drape or vignette, and no brown or grey gradient toward the edges. Reproduce that same empty blackness here.
+
+Museum-quality Dutch Golden Age oil painting on canvas, in the manner of a 17th-century aristocratic court portrait.
+
+SUBJECT: {{ANIMAL}}, the head rendered with photorealistic anatomical accuracy — individual guard hairs, soft undercoat, damp nose, moist intelligent eyes, delicate whiskers catching the light. Seated upright in a carved giltwood armchair with deep crimson velvet upholstery and brass nailhead trim. Calm, dignified, faintly amused expression. Body language relaxed and human-like.
+
+COSTUME: {{COSTUME}}
+
+PROPS: a small forest-green glazed ceramic cup and saucer holding a latte with a delicate rosetta in the crema, cradled in one paw.
+
+LIGHT: a single warm key light from the upper left, Rembrandt chiaroscuro, luminous highlights on fur and gold braid, extremely rapid shadow falloff. The background behind and around the subject is flat, unlit, near-absolute black, as if the sitter were lit in an unlit room. There is no glow, no halo, no rim light, no visible light source and no gradient anywhere in the background — it is uniformly black right up to all four edges.
+
+PALETTE: oxblood red, forest green, antique gold, cream, deep umber. Low-key, rich, restrained.
+
+RENDERING: visible oil impasto and directional brushwork, subtle canvas weave, fine craquelure in the aged varnish, warm glaze. Painted in oils — not a photograph, not a digital render.
+
+FRAMING: vertical portrait format, subject centred, generous headroom, cropped just below the waist. The painted scene fills the entire image edge to edge — this is the bare canvas surface itself, with no picture frame, no border, no wall behind it. {{GAZE}}
+
+AVOID: any picture frame or gilt moulding, gallery wall, hanging wire, mat board, borders or letterbox bars, cartoon or caricature styling, digital airbrush smoothness, plastic sheen, modern clothing, lettering or watermarks, human hands, malformed paws, extra limbs, cluttered background props, bookshelves, windows, curtains, hats, two chairs or duplicated chair backs, a chair back on both sides of the sitter, incoherent furniture joinery — there is exactly one chair, seen from one consistent viewpoint.

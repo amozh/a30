@@ -1,0 +1,33 @@
+{
+    "name": "vendus-sdk",
+    "version": "0.1.0",
+    "description": "TypeScript SDK and data-fetch scripts for the Cegid Vendus POS API",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "openapi:generate": "openapi-ts",
+        "typecheck": "tsc --noEmit",
+        "test": "bun test",
+        "lint": "eslint .",
+        "lint:fix": "eslint . --fix",
+        "format": "prettier --check .",
+        "format:fix": "prettier --write .",
+        "auth": "bun run scripts/auth.ts",
+        "fetch:pnl": "bun run scripts/fetch_pnl_data.ts",
+        "fetch:daily": "bun run scripts/fetch_daily_sales.ts"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.0.0",
+        "@hey-api/openapi-ts": "^0.84.0",
+        "@types/bun": "^1.3.0",
+        "eslint": "^9.0.0",
+        "eslint-config-prettier": "^10.0.0",
+        "prettier": "^3.0.0",
+        "typescript": "^5.6.0",
+        "typescript-eslint": "^8.0.0"
+    },
+    "dependencies": {
+        "@inquirer/prompts": "^8.5.2",
+        "commander": "^15.0.0"
+    }
+}
